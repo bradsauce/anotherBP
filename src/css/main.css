@@ -88,11 +88,172 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.logo {
+	height: 50px;
+	width: 150px;
+}
 
+.topCred {
+	height: 60px;
+	width: 250px;
+	margin-left: 550px;
+}
 
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	font-size: 20px;
+	font-family: Helvetica;
+}
 
+#content video{
+	display: block;
+	margin: 0 auto;
+	background-color: #4a5b66;
+}
 
+#facebook {
+	text-align: center;
+	color: white;
+	background-color: #4f699e;
+	margin-top: 30px;
+}
 
+#boldText {
+	font-style: bold;
+}
+
+#leftFloat {
+	clear: both;
+	font-size: 70%;
+	float: left;
+}
+
+#rightFloat {
+	font-size: 70%;
+	float: right;
+	line-height: 175%;
+}
+
+#bottomImage{
+	float: clear;
+	margin-left:0px;
+	margin-right:0px;
+	width: 960px;
+}
+#noBot {
+	margin-bottom: 0px;
+	font-style: bold;
+	font-size: 125%;
+}
+
+#menu {
+	background-color: #3f8252;
+	color: white;
+	height:56px;
+	line-height:56px;
+}
+
+#menu ul {
+	margin: 24px;
+	margin-left: 15%;
+}
+
+#menu li {
+	display: inline;
+	margin-right: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
+
+#content h2 {
+	text-align: center;
+	color: gray;
+	margin-bottom: 0px;
+}
+
+#comfyText {
+	text-align: center;
+	color: gray;
+	margin-top: 0px;
+	font-size: 75%;
+}
+
+#serving {
+	text-align: center;
+	color: #3f8252;
+	font-family: Helvetica;
+	letter-spacing: 4px;
+}
+
+#mainTable {
+	width: 100%;
+	float right;
+	width: 934px;
+	border-collapse: separate;
+    border-spacing: 10px 17px;
+    background-color: #f7f7f7;
+}
+
+.tableHeaders {
+	background-color: #7f8c8d;
+	color: white;
+	text-align: center;
+	height: 70px;
+	letter-spacing: 4px;
+	border-spacing:10px 0px;
+}
+
+.rows {
+	color: gray;
+	font-size: 75%;
+	text-align: center;
+	border: 5px solid black;
+}
+
+#firstColumn {
+	clear: both;
+	float: left;
+}
+
+#heatingCooling {
+	text-align: center;
+	font-size: 75%;
+	line-height: 150%;
+}
+
+#heating {
+	color: #c0392b;
+	letter-spacing: 4px;
+	font-size: 200%;
+	padding: 30px;
+	padding-bottom: 0px;
+}
+
+#cooling {
+	color: #2980b9;
+	letter-spacing: 4px;
+	font-size: 200%;	
+}
+
+#heat {
+	background-color: #eef1f5;
+}
+
+.pics {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: separate;
+    border-spacing: 50px 30px;
+}
 
 
 
